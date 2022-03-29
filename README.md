@@ -9,11 +9,11 @@
 
 - [Funcionalidades](#funcionalidades)
 
-- [Aplicação](#aplicação)
+
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
+
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
@@ -41,8 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [MySQL](https://www.mysql.com/)
 - [JavaScript](https://www.typescriptlang.org/)
   
-  
-  ## Abrir e rodar o projeto
+## Abrir e rodar o projeto
   # Clone este repositório
 $ git clone <https://github.com/franciscoMarcello/ToughtNodeJS.git>
 

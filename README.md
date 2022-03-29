@@ -39,7 +39,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Handlebars](https://handlebarsjs.com/)
 - [Sequelize](https://sequelize.org/)
 - [MySQL](https://www.mysql.com/)
-- [JavaScript](https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
   
 ## Abrir e rodar o projeto
   # Clone este repositório
